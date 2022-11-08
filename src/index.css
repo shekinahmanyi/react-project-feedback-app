@@ -28,7 +28,8 @@ header {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  padding-top: 10px;
 }
 
 .card {
