@@ -1,14 +1,15 @@
-import React from 'react'
+import React from "react";
+import Card from "./shared/Card";
+import { useState } from "react";
 
-function FeedbackItem() {
+function FeedbackItem({item}) {
+  
   return (
-    <div className='card'>
-      <div className="num-display"></div>
-      <div className="text-display">
-        This is an example of a feedback item
-      </div>
-    </div>
-  )
+    <Card>
+      <div className="num-display">{item.rating}</div>
+      <div className="text-display">{item.text}</div>
+    </Card>
+  );
 }
 
-export default FeedbackItem
+export default FeedbackItem;
