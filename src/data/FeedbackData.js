@@ -2,17 +2,22 @@ const FeedbackData = [
     {
       id: 1,
       rating: 10,
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'Please do decide to leave a feedback on this feedback UI,Your feedback will be greatly appreciated concerning this feedback Ui.Thanks',
     },
     {
       id: 2,
       rating: 9,
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'Please do decide to leave a feedback on this feedback UI,Your feedback will be greatly appreciated concerning this feedback Ui.Thanks',
     },
     {
       id: 3,
       rating: 8,
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'Please do decide to leave a feedback on this feedback UI,Your feedback will be greatly appreciated concerning this feedback ui.Thanks',
+    },
+    {
+      id: 4,
+      rating: 7,
+      text: 'Please do decide to leave a feedback on this feedback UI,Your feedback will be greatly appreciated concerning this feedback ui.Thanks',
     },
   ]
   
